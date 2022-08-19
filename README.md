@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshitk99
 - 👀 I’m interested in Engineering
-- 🌱 I’m currently in class 11 and am an JEE aspirant
+- 🌱 I’m currently in class 12 and am an JEE aspirant
 - 💞️ I’m looking to collaborate on any engineering project which ensures a good aim.
 - 📫 How to reach me 
 Anyone can reach me through my email id- harshitkharshit2005@gmail.com
