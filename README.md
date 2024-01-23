@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @harshitk99
-- 👀 I’m interested in Engineering
-- 🌱 I’m currently in class 12 and am an JEE aspirant
-- 💞️ I’m looking to collaborate on any engineering project which ensures a good aim.
-- 📫 How to reach me 
+- 👋 Hi, I’m @harshitk99 and my full name is Harshit Kaushik
+- 👀 I’m doing B.Tech in Computer Science and Engineering from GGSIPU and will be graduating in the year 2027.
+- 💞️ I’m looking to collaborate on any engineering project which ensures a good aim and helps me enhance my skills in different fields .
+- 📫 How to reach me ?
 Anyone can reach me through my email id- harshitkharshit2005@gmail.com
 
 <!---
